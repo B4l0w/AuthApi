@@ -31,3 +31,11 @@ C:\Users\Tanulo\Git\AuthApi\WeatherForecast\obj\Debug\net8.0\WeatherForecast.pdb
 C:\Users\Tanulo\Git\AuthApi\WeatherForecast\obj\Debug\net8.0\WeatherForecast.genruntimeconfig.cache
 C:\Users\Tanulo\Git\AuthApi\WeatherForecast\obj\Debug\net8.0\ref\WeatherForecast.dll
 C:\Users\Tanulo\Git\AuthApi\WeatherForecast\obj\Debug\net8.0\WeatherForecast.sourcelink.json
+C:\Users\Tanulo\Git\AuthApi\WeatherForecast\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Tanulo\Git\AuthApi\WeatherForecast\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tanulo\Git\AuthApi\WeatherForecast\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tanulo\Git\AuthApi\WeatherForecast\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tanulo\Git\AuthApi\WeatherForecast\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tanulo\Git\AuthApi\WeatherForecast\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tanulo\Git\AuthApi\WeatherForecast\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tanulo\Git\AuthApi\WeatherForecast\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
