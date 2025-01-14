@@ -1,4 +1,7 @@
 
+using AuthApi.Datas;
+using AuthApi.Models;
+
 namespace AuthApi
 {
     public class Program
@@ -7,6 +10,7 @@ namespace AuthApi
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddDbContext<AppDbContext>();
             // Add services to the container.
 
             builder.Services.AddControllers();
